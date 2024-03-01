@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Installation Mangan Jekyll Theme"
+date: 2017-03-10 19:09:40 +0700
+author: username
+sitemap: false
+keywords: "Installation Mangan Jekyll Theme"
+description: "Installation Mangan Jekyll Theme"
+---
 # Mangan
 
 [![Build Status](https://github.com/dikiaap/mangan/workflows/build/badge.svg)](https://github.com/dikiaap/mangan/actions)
